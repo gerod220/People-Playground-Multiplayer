@@ -1,0 +1,16 @@
+{
+  "Name": "[CloseBeta] Multiplayer",
+  "Author": "Gerod",
+  "Description": "Check Mod",
+  "ModVersion": "0.4.0",
+  "GameVersion": "2.35+",
+  "ThumbnailPath": "logo.png",
+  "EntryPoint": "MPStarter",
+  "Tags": [],
+  "Scripts": [
+    "Starter.cs"
+  ],
+  "Active": true,
+  "UGCIdentity": null,
+  "CreatorUGCIdentity": "2693472283"
+}
